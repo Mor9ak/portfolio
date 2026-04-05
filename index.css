@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+    --color-bgPage: #000000;
+    --color-bgArticle: #31393c;
+    --color-textCol: #ffffff;
+}

@@ -1,0 +1,10 @@
+{
+  "title" : "Article about me",
+  "text" : "Kazakou Yaraslau, frontend developer, i work with JavaScript, TypeScript, React, Tailwind CSS. Also can use Material UI or Chakra UI. Now i learning Next.js. I have some portfolio projects, like Encry",
+  "buttonText" : "Telegram",
+  "buttonUrl" : "https://t.me/mor9ak",
+  "button2Text" : "Encry",
+  "button2Url" : "https://encry-inky.vercel.app/",
+  "button3Text" : "Github",
+  "button3Url" : "https://github.com/Mor9ak"
+}
