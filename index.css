@@ -3,5 +3,6 @@
 @theme {
     --color-bgPage: #000000;
     --color-bgArticle: #31393c;
+    --color-bgArticleHover: #414d50;
     --color-textCol: #ffffff;
 }
