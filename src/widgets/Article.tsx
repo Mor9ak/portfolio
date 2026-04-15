@@ -1,14 +1,14 @@
 import Button from "../shared/Button";
 
+interface ButtonProps {
+    buttonText: string;
+    ButtonUrl: string;
+}
+
 interface ArtInfo {
     title: string;
     text: string;
-    buttonText: string;
-    buttonUrl: string;
-    button2Text?: string;
-    button2Url?: string;
-    button3Text?: string;
-    button3Url?: string;
+    buttons: ButtonProps[];
 }
 
 const Article = (props: ArtInfo) => {
@@ -17,13 +17,9 @@ const Article = (props: ArtInfo) => {
             <h2 className={"text-2xl flex items-center justify-center"}>{props.title}</h2>
             <p className={"flex items-center justify-center px-6"}>{props.text}</p>
             <div id={"buttonSec"} className={"flex items-center justify-around *:rounded-lg *:text-textCol"}>
-                <Button title={props.buttonText} link={props.buttonUrl}/>
-                {props.button2Text !== undefined && props.button2Url !== undefined && (
-                    <Button title={props.button2Text} link={props.button2Url} />
-                )}
-                {props.button3Text !== undefined && props.button3Url !== undefined && (
-                    <Button title={props.button3Text} link={props.button3Url} />
-                )}
+                {props.buttons.map((button: ButtonProps) => (
+                    <Button title={button.buttonText} link={button.ButtonUrl} />
+                ))}
             </div>
         </article>
     )
