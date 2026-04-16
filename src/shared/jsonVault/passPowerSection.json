@@ -1,8 +1,0 @@
-{
-  "title": "Passpower",
-  "description": "Password entropy calculator by me (Astro, Typescript, React, Tailwind CSS)",
-  "link": {
-    "url": "https://passpower.vercel.app/",
-    "title" : "Check"
-  }
-}

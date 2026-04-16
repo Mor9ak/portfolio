@@ -1,0 +1,20 @@
+{
+  "sections" : [
+    {
+      "title": "Encry",
+      "description": "Ciphers playgrounds by me (Typescript ,React, Tailwind CSS, Vite)",
+      "link": {
+        "url": "https://encry-inky.vercel.app",
+        "title" : "Check"
+      }
+    },
+    {
+      "title": "Passpower",
+      "description": "Password entropy calculator by me (Astro, Typescript, React, Tailwind CSS)",
+      "link": {
+        "url": "https://passpower.vercel.app/",
+        "title" : "Check"
+      }
+    }
+  ]
+}
