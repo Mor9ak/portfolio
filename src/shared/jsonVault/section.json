@@ -2,7 +2,7 @@
   "sections" : [
     {
       "title": "Encry",
-      "description": "Ciphers playgrounds by me (Typescript ,React, Tailwind CSS, Vite)",
+      "description": "Ciphers playgrounds by me (Typescript ,React, Tailwind CSS, Vite, Vitest)",
       "link": {
         "url": "https://encry-inky.vercel.app",
         "title" : "Check"
