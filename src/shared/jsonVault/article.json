@@ -3,7 +3,7 @@
   [
     {
       "title" : "Article about me",
-      "text" : "Kazakou Yaraslau, frontend developer, i work with JavaScript, TypeScript, React, Tailwind CSS. Also can use Material UI or Chakra UI. Now i learning Astro. I have some portfolio projects, like Encry, Passpower.",
+      "text" : "Kazakou Yaraslau, frontend developer, i work with JavaScript, TypeScript, React, Tailwind CSS, Astro. Also can use Next.js. I have some portfolio projects, like Encry, Passpower.",
       "buttons": [
         {
           "buttonText": "Telegram",
