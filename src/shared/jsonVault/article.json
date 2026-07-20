@@ -10,16 +10,12 @@
           "ButtonUrl": "https://t.me/mor9ak"
         },
         {
-          "buttonText": "Encry",
-          "ButtonUrl": "https://encry-inky.vercel.app/"
-        },
-        {
           "buttonText": "Github",
           "ButtonUrl": "https://github.com/Mor9ak"
         },
         {
-          "buttonText": "Passpower",
-          "ButtonUrl": "https://passpower.vercel.app/"
+          "buttonText": "Email",
+          "ButtonUrl": "mailto:kazakou.yaroslau@gmail.com"
         }
       ]
     }
