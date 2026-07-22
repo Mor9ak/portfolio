@@ -4,7 +4,7 @@ import secData from '../shared/jsonVault/section.json';
 
 const SectionHolder = () => {
     return (
-        <div className={'flex flex-col items-center justify-center'}>
+        <div className={'flex flex-col items-center justify-center max-w-full md:max-w-md'}>
             {secData.sections.map((section) => (
                 <Section key={section.title} title={section.title} description={section.description} link={section.link} />
             ))}
