@@ -9,10 +9,10 @@
       }
     },
     {
-      "title": "Passpower",
-      "description": "Password entropy calculator by me (Astro, Typescript, React, Tailwind CSS)",
+      "title": "Buy something",
+      "description": "Simple mockup website with dynamic routes, api calls admin page (Next.js, Typescript, React, Tailwind CSS)",
       "link": {
-        "url": "https://passpower.vercel.app/",
+        "url": "https://buysomething-tan.vercel.app/",
         "title" : "Check"
       }
     }
